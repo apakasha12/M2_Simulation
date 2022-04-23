@@ -1,1 +1,9 @@
+## COMPONENTS
+1.ATMEGA328
+2.LED
+3.PROBES
+4.RESISTORS
+5.RESET BUTTONS
 
+
+![ATMEGA328](https://user-images.githubusercontent.com/102661412/164888833-427e9970-02da-4ae2-9432-6a97cae6e59e.png)
